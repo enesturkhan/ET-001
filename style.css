@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navhead-bg {
+    background-image: linear-gradient(to right, #396afc, #2948ff);
+}
+
+
+.btn-color {
+    background-color: #05EBAF !important;
+    color: #02251c !important;
+}
+
+.position {
+    position: relative;
+    top: -50px;
+}
+
+.bg-three {
+    background-color: #e3e1f6 !important;
+}
+
+.borderex {
+    border-bottom: 5px solid #1c05eb !important;
+}
+
+.fonts {
+    font-size: 0.6rem;
+    margin: 10px;
+
+
+}
+
+.fonts::before {
+    content: "✅ "
+}
